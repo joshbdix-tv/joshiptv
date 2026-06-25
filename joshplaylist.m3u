@@ -1,19 +1,19 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",| JOSH 4K UHD
-http://203.18.159.180/JOSH_RAMBO_BDIX_4K_UHD_60FPS_Premium_BRAvsSCO/index.m3u8
+#EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",🇩🇪 Germany 🆚 🇪🇨 Ecuador| JOSH 4K UHD
+http://live.joshbdixsports.shop/GERvsECU_JOSH_4K/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",| JOSH FHD 60FPS
-http://203.18.159.180/JOSH_RAMBO_BDIX_FHD_60FPS_Premium_BRAvsSCO/index.m3u8
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",🇩🇪 Germany 🆚 🇪🇨 Ecuador| JOSH FHD 60FPS
+http://live.joshbdixsports.shop/GERvsECU_JOSH_FHD/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",| JOSH FHD BACKUP
-http://203.18.159.180/JOSH_RAMBO_BDIX_FHD_60FPS_Premium_MORvsHAI/index.m3u8
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",🇳🇱 Netherlands 🆚 🇹🇳 Tunisia| JOSH FHD BACKUP
+http://live.joshbdixsports.shop/NEDvsTUN_FHD/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",🇿🇦 South Africa 🆚 South Korea 🇰🇷 | JOSH FHD
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",🇩🇪 Germany 🆚 🇪🇨 Ecuador| JOSH HD
 https://tinyurl.com/TG-josharmy007-fgfgjk99
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",🇲🇽 Mexico 🆚 🇰🇷 South Korea | JOSH FHD BACKUP
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",🇳🇱 Netherlands 🆚 🇹🇳 Tunisia| JOSH HD BACKUP
 https://tinyurl.com/TG-josharmy007-fgfgjk991
 
 
