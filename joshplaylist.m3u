@@ -18,7 +18,7 @@ http://live.joshbdixsports.shop/t.me/BDIX_Bypass_josh_Rambo___live2fd__2/index.m
 
 
 
-#EXTINF:0,FIFA 2026 Live (Server 1)
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE IIG SOURCE",JOSH TOFFEE
 #EXTVLCOPT:network-caching=1000
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8?hdntl=Expires=1782500591~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwveDPqCGmAJInaCplSONLs5CGD2rxYKTVAXRw5gsV1tpPqAgGxxP2d32pMnXvA51ryFWTchzDvlMocr_bGuBfpEI
 #EXTINF:20,FIFA 2026 Live (Server 2)
