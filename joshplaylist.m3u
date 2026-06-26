@@ -19,22 +19,21 @@ http://live.joshbdixsports.shop/t.me/BDIX_Bypass_josh_Rambo___live2fd_qe/index.m
 
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE IIG SOURCE",JOSH TOFFEE
-#EXTVLCOPT:network-caching=1000
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8?hdntl=Expires=1782500591~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwveDPqCGmAJInaCplSONLs5CGD2rxYKTVAXRw5gsV1tpPqAgGxxP2d32pMnXvA51ryFWTchzDvlMocr_bGuBfpEI
-#EXTINF:20,FIFA 2026 Live (Server 2)
-#EXTVLCOPT:network-caching=1000
-https://tahmidx.cinemoja.workers.dev/
-#EXTINF:0,FIFA 2026 Live (Server 3)
-#EXTVLCOPT:network-caching=1000
-https://vildid.hundredmilesperhour.uk/1782423400/79f1c9c38b7e441cb0429ab119a12023/wrjO4gRrJvLAHiKr8klrqfePauvdB8TlWb3C0AMKxk0/fox-usa.m3u8
-#EXTINF:0,FIFA 2026 Live (Server 4)
-#EXTVLCOPT:network-caching=1000
-https://vildid.hundredmilesperhour.uk/1782423620/b4875e3cce1242adbe845379816fe976/aAaueGdKbjmAP8s4dHv5krtDPrYs8WJ6k3XJ90nd0dY/fox-sports-1.m3u8
-#EXTINF:0,FIFA 2026 Live 4K (Server 5)
-#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH JALSHA
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH Server 1
+http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/fhd.png" group-title="FREE IIG SOURCE",JOSH Server 2
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH Server 3
 https://vildid.hundredmilesperhour.uk/1782423470/377fb7a1a8c94e4899bab25a7c1ca396/f3Gl8w923szVtbQcdSeIY29oU2mKX6J6PNk3AnTUzYI/fox4k-usa.m3u8
-#EXTINF:0,FIFA 2026 Live 4K (Server 6)
-#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH Server 4
 https://vildid.hundredmilesperhour.uk/1782423831/94e7b0cf8c954419a28d6853f19f1951/uyWWu2dEd9BzI-D7msGir0Ddr5cIVBzLGwd5lapISj8/fusballtv2uhd-de.m3u8
 
 
