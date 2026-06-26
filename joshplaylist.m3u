@@ -1,19 +1,22 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",🇫🇷 France 🆚 🇳🇴 Norway| JOSH 4K UHD
+#EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",🇪🇸 Spain 🆚 🇺🇾 Uruguay| JOSH 4K UHD
 http://live.joshbdixsports.shop/FRvsNL_JOSH_4K/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",🇫🇷 France 🆚 🇳🇴 Norway| JOSH FHD 60FPS
+#EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kbkuhd.png" group-title="PAID WORLD CUP 2026",🇪🇸 Spain 🆚 🇺🇾 Uruguay| JOSH 4K UHD
 http://live.joshbdixsports.shop/FRnvsNL_JOSH_FHD/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",🇸🇳 Senegal 🆚 🇮🇶 Iraq| JOSH FHD BACKUP
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",🇪🇸 Spain 🆚 🇺🇾 Uruguay| JOSH FHD 60FPS
+http://live.joshbdixsports.shop/FRnvsNL_JOSH_FHD/index.m3u8
+
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",🇨🇻 Cape Verde 🆚 🇸🇦 Saudi Arabia| JOSH FHD BACKUP
 http://live.joshbdixsports.shop/Match2_FHD/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",🇫🇷 France 🆚 🇳🇴 Norway| JOSH HD
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",🇪🇸 Spain 🆚 🇺🇾 Uruguay| JOSH HD
 http://live.joshbdixsports.shop/t.me/BDIX_Bypass_josh_Rambo__live1FHD_qe/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",🇸🇳 Senegal 🆚 🇮🇶 Iraq| JOSH HD BACKUP
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",🇨🇻 Cape Verde 🆚 🇸🇦 Saudi Arabia| JOSH HD BACKUP
 http://live.joshbdixsports.shop/t.me/BDIX_Bypass_josh_Rambo___live2fd_qe/index.m3u8
 
 
@@ -21,19 +24,19 @@ http://live.joshbdixsports.shop/t.me/BDIX_Bypass_josh_Rambo___live2fd_qe/index.m
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE IIG SOURCE",JOSH TOFFEE
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8?hdntl=Expires=1782500591~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwveDPqCGmAJInaCplSONLs5CGD2rxYKTVAXRw5gsV1tpPqAgGxxP2d32pMnXvA51ryFWTchzDvlMocr_bGuBfpEI
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH JALSHA
-https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
-
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH Server 1
-http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/fhd.png" group-title="FREE IIG SOURCE",JOSH Server 2
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/fhd.png" group-title="FREE IIG SOURCE",JOSH SERVER 01
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH Server 3
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH SERVER 02
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH SERVER 03
+http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH SERVER 04
 https://vildid.hundredmilesperhour.uk/1782423470/377fb7a1a8c94e4899bab25a7c1ca396/f3Gl8w923szVtbQcdSeIY29oU2mKX6J6PNk3AnTUzYI/fox4k-usa.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH Server 4
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH SERVER 05
 https://vildid.hundredmilesperhour.uk/1782423831/94e7b0cf8c954419a28d6853f19f1951/uyWWu2dEd9BzI-D7msGir0Ddr5cIVBzLGwd5lapISj8/fusballtv2uhd-de.m3u8
 
 
