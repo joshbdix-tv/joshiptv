@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",🇪🇸 Spain 🆚 🇺🇾 Uruguay| JOSH 4K UHD
 http://live.joshbdixsports.shop/FRvsNL_JOSH_4K/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kbkuhd.png" group-title="PAID WORLD CUP 2026",🇪🇸 Spain 🆚 🇺🇾 Uruguay| JOSH 4K UHD
+#EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kbkuhd.png" group-title="PAID WORLD CUP 2026",🇪🇸 Spain 🆚 🇺🇾 Uruguay| JOSH 4K UHD BACKUP
 http://live.joshbdixsports.shop/FRnvsNL_JOSH_FHD/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",🇪🇸 Spain 🆚 🇺🇾 Uruguay| JOSH FHD 60FPS
@@ -33,11 +33,11 @@ https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH SERVER 03
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH SERVER 04
-https://vildid.hundredmilesperhour.uk/1782423470/377fb7a1a8c94e4899bab25a7c1ca396/f3Gl8w923szVtbQcdSeIY29oU2mKX6J6PNk3AnTUzYI/fox4k-usa.m3u8
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH ARABIC SERVER 04
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(_sNvl74oliy43G3cA5TJ-RrTBKHknnqE4rT1ttRgtgdB0_lGdE1pqmexZRkQik7_RicPMUhNKmx4TNhbGYfz5R23LRMvsn3JglsqW75MbmvecoUCv4pOF0Exws0Z07le)/cloud/3/x9ksaba/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH SERVER 05
-https://vildid.hundredmilesperhour.uk/1782423831/94e7b0cf8c954419a28d6853f19f1951/uyWWu2dEd9BzI-D7msGir0Ddr5cIVBzLGwd5lapISj8/fusballtv2uhd-de.m3u8
+https://hugh.cdn.rumble.cloud/live/lvp39gn1/slot-143/db6o-rj2l_1080p/chunklist.m3u8
 
 
 
