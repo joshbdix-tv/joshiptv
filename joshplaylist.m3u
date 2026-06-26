@@ -1,20 +1,20 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",🇳🇱 Netherlands 🆚 🇹🇳 Tunisia| JOSH 4K UHD
-http://live.joshbdixsports.shop/GERvsECU_JOSH_4K/index.m3u8
+#EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",🇫🇷 France 🆚 🇳🇴 Norway| JOSH 4K UHD
+http://live.joshbdixsports.shop/FRvsNL_JOSH_4K/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",🇳🇱 Netherlands 🆚 🇹🇳 Tunisia| JOSH FHD 60FPS
-http://live.joshbdixsports.shop/GERvsECU_JOSH_FHD/index.m3u8
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",🇫🇷 France 🆚 🇳🇴 Norway| JOSH FHD 60FPS
+http://live.joshbdixsports.shop/FRnvsNL_JOSH_FHD/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",🇸🇪 Sweden 🆚 🇯🇵 Japan| JOSH FHD BACKUP
-http://live.joshbdixsports.shop/NEDvsTUN_FHD/index.m3u8
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",🇸🇳 Senegal 🆚 🇮🇶 Iraq| JOSH FHD BACKUP
+http://live.joshbdixsports.shop/Match2_FHD/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",🇸🇪 Sweden 🆚 🇯🇵 Japan| JOSH HD
-http://live.joshbdixsports.shop/t.me/BDIX_Bypass_josh_Rambo__live1FHD_2/index.m3u8
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",🇫🇷 France 🆚 🇳🇴 Norway| JOSH HD
+http://live.joshbdixsports.shop/t.me/BDIX_Bypass_josh_Rambo__live1FHD_qe/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",🇳🇱 Netherlands 🆚 🇹🇳 Tunisia| JOSH HD BACKUP
-http://live.joshbdixsports.shop/t.me/BDIX_Bypass_josh_Rambo___live2fd__2/index.m3u8
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",🇸🇳 Senegal 🆚 🇮🇶 Iraq| JOSH HD BACKUP
+http://live.joshbdixsports.shop/t.me/BDIX_Bypass_josh_Rambo___live2fd_qe/index.m3u8
 
 
 
