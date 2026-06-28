@@ -1,10 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",🇦🇷 Argentina 🆚 🇯🇴 Jordan| JOSH 4K UHD
+http://203.18.159.180/ARGvsJOD_JOSH_4K_okre/index.m3u8
+
+#EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kbkuhd.png" group-title="PAID WORLD CUP 2026",🇦🇷 Argentina 🆚 🇯🇴 Jordan| JOSH 4K UHD BACKUP
+http://203.18.159.180/ARGvsJOD_JOSH_FHD_eurf/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",🇨🇴 Colombia 🆚 🇵🇹 Portugal| JOSH 4K UHD
-http://live.joshbdixsports.shop/FRvsNL_JOSH_4K/index.m3u8
-
-#EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",UPCOMING EVENT| JOSH 4K UHD
 http://live.joshbdixsports.shop/FRvsNL_JOSH_4K/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kbkuhd.png" group-title="PAID WORLD CUP 2026",🇨🇴 Colombia 🆚 🇵🇹 Portugal| JOSH 4K UHD BACKUP
