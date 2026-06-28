@@ -10,16 +10,16 @@ http://live.joshbdixsports.shop/RSAvsCA__JOSH_FHD_eur4/index.m3u8
 http://live.joshbdixsports.shop/t.me/BDIX_Bypass_josh_Rambo___live2fd_1/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",JOSH 4K UHD
-http://203.18.159.115/mobile/index.m3u8
+http://203.18.159.180/globalads/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kbkuhd.png" group-title="PAID WORLD CUP 2026",JOSH 4K UHD BACKUP
-http://203.18.159.115/mobile/index.m3u8
+http://203.18.159.180/globalads/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",JOSH HD
 http://live.joshbdixsports.shop/t.me/BDIX_Bypass_josh_Rambo___live2fd_1/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",JOSH HD BACKUP
-http://203.18.159.115/mobile/index.m3u8
+http://203.18.159.180/globalads/index.m3u8
 
 
 
