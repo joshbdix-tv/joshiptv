@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",🇿🇦 South Africa 🆚 🇨🇦 Canada| JOSH 4K UHD
-http://live.joshbdixsports.shop/RSAvsCA_JOSH_4K_okr/index.m3u8
+http://live.joshbdixsports.shop/RSAvsCA_JOSH_4K_okre/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",🇿🇦 South Africa 🆚 🇨🇦 Canada| JOSH FHD 60FPS
 http://live.joshbdixsports.shop/RSAvsCA__JOSH_FHD_eur4/index.m3u8
