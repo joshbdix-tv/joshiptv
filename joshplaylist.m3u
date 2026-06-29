@@ -10,7 +10,7 @@ http://live.joshbdixsports.shop/GervsPG__JOSH_FHD__h1/index.m3u8
 http://live.joshbdixsports.shop/JOSH_BACKUP_02/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",JOSH 4K UHD
-http://live.joshbdixsports.shop/GervsPw__JOSH_4K_UHD__bk/index.m3u8
+http://203.18.159.180/test4k/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kbkuhd.png" group-title="PAID WORLD CUP 2026",JOSH EMARGENCY BACKUP
 http://203.18.159.180/BRAvsJAP_JOSH_BKUP../index.m3u8
