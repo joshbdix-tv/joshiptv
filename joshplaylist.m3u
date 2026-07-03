@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",JOSH 4K UHD
-http://stream.joshbdixsports.shop:1052/JOSH_4K_UHD_2.0_AUS/index.m3u8
+http://203.18.159.115/JOSH_4K_ARG/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",JOSH 4K UHD BACKUP
-http://live.joshbdixsports.shop/JOSH_4K_UHD__7_Espn__aur__artyc/index.m3u8
+http://stream.joshbdixsports.shop:1052/JOSH_4K_UHD_2.0_ARG_PRO/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",JOSH FHD 60FPS
-http://stream.joshbdixsports.shop:1052/JOSH_FHD_60FPS_2.0_AUS/index.m3u8
+http:http://live.joshbdixsports.shop/Josh__FHD__enjoyTheGAME/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",JOSH FHD BACKUP
-http://stream.joshbdixsports.shop:1052/JOSH_FHD_1080p__spn__aur__artyc/index.m3u8
+http://203.18.159.115/JOSH_HD_ARG_M6/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kbkuhd.png" group-title="PAID WORLD CUP 2026",JOSH EMARGENCY BACKUP
-http://live.joshbdixsports.shop/JOSH_BACKUP_2.0_ARG/index.m3u8
+http://live.joshbdixsports.shop/JOSH_4K_UHD__enjoyTheGAME/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",JOSH HD
-http://live.joshbdixsports.shop/t.me/josharmy007___Join_now__enjoyTheGAME/index.m3u8
+http://live.joshbdixsports.shop/JOSH_BACKUP_2.0_ARG/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",JOSH HD BACKUP
 https://video.twimg.com/amplify_video/2071362823591268352/pl/chOrPgpvUvYZARnw.m3u8
