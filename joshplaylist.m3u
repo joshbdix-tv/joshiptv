@@ -7,7 +7,7 @@ http://bdix.joshbdixsports.shop/JOSH_4K_NOW_TV_BRA/index.m3u8
 http://stream.joshbdixsports.shop:1052/JOSH_4K_UHD_HDR_BRA/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kbkuhd.png" group-title="FREE IIG SOURCE",JOSH ARABIC 4K
-http://203.18.159.111:1052/JOSH_4k_BKUP/index.m3u8
+http://203.18.159.111:1052/JOSH_4k_BK_ARABiC_BRA/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSH4K" tvg-name="JOSH 4K UHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kbkuhd.png" group-title="PAID WORLD CUP 2026",JOSH 4K EMARGENCY BACKUP
 http://live.joshbdixsports.shop/JOSH_4K_UHD__Round_of_16_3rd_Match_BRvNR/index.m3u8
