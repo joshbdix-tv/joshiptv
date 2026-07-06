@@ -32,7 +32,7 @@ https://video.twimg.com/amplify_video/2071362823591268352/pl/chOrPgpvUvYZARnw.m3
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE IIG SOURCE",JOSH FREE 02
 https://video.twimg.com/amplify_video/2071362823591268352/pl/chOrPgpvUvYZARnw.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH Arena Sport 1" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/fhd.png" group-title="FREE IIG SOURCE",JOSH SERVER 01
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH Sport" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/fhd.png" group-title="FREE IIG SOURCE",JOSH SERVER 01
 http://143.244.62.109:80/as1bh/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH SERVER 02
@@ -41,7 +41,7 @@ https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH FHD FiFA" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH SERVER 03
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH Arena Sport 3" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH SERVER 05
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="JOSH Sport" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",JOSH SERVER 05
 http://143.244.62.109:80/as3premium/index.m3u8
 
 
