@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="JOSH4K" tvg-name="RAMBO 4K UHD ENGLiSH" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",RAMBO 4K UHD
 http://stream.joshbdixsports.shop:1052/RAMBO_BDIX_UHD_QF__2_SPvBL__Pro__csasd/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSH4K" tvg-name="RAMBO 4K UHD FUSSBALL" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",RAMBO 4K UHD BACKUP
+#EXTINF:-1 tvg-id="JOSH4K" tvg-name="RAMBO 4K UHD FOX ONE" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",RAMBO FOX ONE 4K UHD
 http://stream.joshbdixsports.shop:1052/RAMBO_CHINA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FOX ONE 4K" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kbkuhd.png" group-title="FREE IIG SOURCE",RAMBO FOX ONE 4K
@@ -13,7 +13,7 @@ http://live.joshbdixsports.shop/RAMBO_FOX_ONE_4K/index.m3u8
 http://live.joshbdixsports.shop/JOSH_4K_UHD__Round_of_16_5th_Match_PORvsSPN__dds/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",RAMBO FOX ONE FHD 60FPS
-http://live.joshbdixsports.shop/t.me/josharmy007___Join_now__QF__2_SPvBL__free__dfsdw/index.m3u8
+http://live.joshbdixsports.shop/RAMBO_BDIX_FHD_QF__2_SPvBL__Pro__csaw/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",RAMBO FHD BACKUP
 http://live.joshbdixsports.shop/t.me/josharmy007___Join_now__QF__2_SPvBL__free__dfsdw/index.m3u8
