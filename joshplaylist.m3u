@@ -1,25 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="JOSH4K" tvg-name="RAMBO 4K UHD ENGLiSH" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",RAMBO 4K UHD
-http://stream.joshbdixsports.shop:1052/RAMBO_BDIX_UHD_QF__2_SPvBL__Pro__csasd/index.m3u8
+#EXTINF:-1 tvg-id="JOSH4K" tvg-name="RAMBO 4K UHD ENGLiSH" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",RAMBO NOW 4K UHD
+http://stream.joshbdixsports.shop:1052/RAMBO_FOX___UHD_QF__3_NovEN__PRO__sdae/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSH4K" tvg-name="RAMBO 4K UHD FOX ONE" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",RAMBO FOX ONE 4K UHD
 http://live.joshbdixsports.shop/RAMBO_FOX_ONE_4K__UHD_QF__3_NovEN__PRO__sdae/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FOX ONE 4K" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kbkuhd.png" group-title="FREE IIG SOURCE",RAMBO FOX ONE 4K
-http://live.joshbdixsports.shop/RAMBO_FOX_ONE_4K/index.m3u8
+#EXTINF:-1 tvg-id="JOSH4K" tvg-name="RAMBO 4K UHD ENGLiSH 02" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",RAMBO NOW 4K UHD 02
+http://stream.joshbdixsports.shop:1052/RAMBO_FOX___UHD_QF__3_ARGvSW__PRO__sddwa/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSH4K" tvg-name="RAMBO 4K UHD ENGLiSH" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kbkuhd.png" group-title="PAID WORLD CUP 2026",RAMBO 4K EMARGENCY BACKUP
-http://live.joshbdixsports.shop/JOSH_4K_UHD__Round_of_16_5th_Match_PORvsSPN__dds/index.m3u8
+#EXTINF:-1 tvg-id="JOSH4K" tvg-name="RAMBO FOX ONE 4K UHD 02" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kbkuhd.png" group-title="PAID WORLD CUP 2026",RAMBO FOX ONE 4K UHD 02
+http://live.joshbdixsports.shop/RAMBO_FOX_ONE_4K__UHD_QF__3_ARGvSW__PRO__sddwa/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",RAMBO FOX ONE FHD 60FPS
-http://live.joshbdixsports.shop/RAMBO_BDIX_FHD_QF__2_SPvBL__Pro__csaw/index.m3u8
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",RAMBO BBC FHD
+http://live.joshbdixsports.shop/RAMBO_BDIX_FHD_QF__3_NovEN__PRO__sdae/index.m3u8
+
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",RAMBO BBC FHD 02
+http://stream.joshbdixsports.shop:1052/RAMBO_BDIX_FHD_QF__4_ARGvSW__sdawdw/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",RAMBO FHD BACKUP
-http://live.joshbdixsports.shop/t.me/josharmy007___Join_now__QF__2_SPvBL__free__dfsdw/index.m3u8
+http://bdix.joshbdixsports.shop/RAMBO_TSN_FHD_TV_BK/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",RAMBO HD
-http://bdix.joshbdixsports.shop/RAMBO_LOCAL_HD_TEST/index.m3u8
+http://bdix.joshbdixsports.shop/RAMBO_LOCAL_HD_FHD/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD 01" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",RAMBO HD CHINA
 http://bdix.joshbdixsports.shop/RAMBO_4K-BKUP_QF/index.m3u8
@@ -43,7 +46,4 @@ http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBa
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO Sport" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/freehd.png" group-title="FREE IIG SOURCE",RAMBO SERVER 05
 http://143.244.62.109:80/as3premium/index.m3u8
-
-
-
 
