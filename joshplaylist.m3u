@@ -1,39 +1,31 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="JOSH4K" tvg-name="RAMBO 4K UHD ENGLiSH" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",RAMBO NOW 4K UHD
-http://stream.joshbdixsports.shop:1052/RAMBO_FOX___UHD_QF__3_NovEN__PRO__sdae/index.m3u8
+http://stream.joshbdixsports.shop:1052/RAMBO_NOW_UHD_SF_1st_FRvsES_PRO/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSH4K" tvg-name="RAMBO 4K UHD FOX ONE" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",RAMBO FOX ONE 4K UHD
-http://live.joshbdixsports.shop/RAMBO_FOX_ONE_4K__UHD_QF__3_NovEN__PRO__sdae/index.m3u8
+http://live.joshbdixsports.shop/RAMBO_FOX_UHD_SF_1st_FRvsES_PRO/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSH4K" tvg-name="RAMBO 4K UHD ENGLiSH 02" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",RAMBO NOW 4K UHD 02
-http://stream.joshbdixsports.shop:1052/RAMBO_FOX___UHD_QF__3_ARGvSW__PRO__sddwa/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSH4K" tvg-name="RAMBO FOX ONE 4K UHD 02" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kbkuhd.png" group-title="PAID WORLD CUP 2026",RAMBO FOX ONE 4K UHD 02
-http://live.joshbdixsports.shop/RAMBO_FOX_ONE_4K__UHD_QF__3_ARGvSW__PRO__sddwa/index.m3u8
-
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",RAMBO BBC FHD
-http://live.joshbdixsports.shop/RAMBO_BDIX_FHD_QF__3_NovEN__PRO__sdae/index.m3u8
-
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",RAMBO BBC FHD 02
-http://stream.joshbdixsports.shop:1052/RAMBO_BDIX_FHD_QF__4_ARGvSW__sdawdw/index.m3u8
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",RAMBO TSN FHD
+http://live.joshbdixsports.shop/RAMBO_BDIX_FHD_SF_1st_FRvsES_PRO/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",RAMBO FHD BACKUP
-http://bdix.joshbdixsports.shop/RAMBO_TSN_FHD_TV_BK/index.m3u8
+http://stream.joshbdixsports.shop:1052/RAMBO_BBC_FHD_SF_1st_FRvsES_PRO/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",RAMBO HD
-http://bdix.joshbdixsports.shop/RAMBO_LOCAL_HD_FHD/index.m3u8
+http://bdix.joshbdixsports.shop/RAMBO_SOMOY-TV-FHD/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD 01" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",RAMBO HD CHINA
-http://bdix.joshbdixsports.shop/RAMBO_4K-BKUP_QF/index.m3u8
+http://bdix.joshbdixsports.shop/RAMBO_LOCAL_HD_FHD/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD 02" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",J-PLEX LiVE
-http://203.18.159.111:1052/J-PLEX_LOCAL/index.m3u8
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD 02" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE IIG SOURCE",RAMBO FOX ONE FHD
+https://tinyurl.com/TG-josharmy007-FRvSPnspFHD
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE IIG SOURCE",RAMBO FREE 02
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_150020260707142211000.ts?hdntl=Expires=1783519207~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AWIR_5E03lOTHbZKpI8DsJ7hGJW5R_0w9UE0QJ9Pzexb-4W5RWuZOKfsZgcJOdAPi0C8fNMH81agHqkqCtKQIWIWdo4A
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE IIG SOURCE",RAMBO FOX ONE 4K UHD
+https://tinyurl.com/TG-josharmy007-FRvSPnsp4KHDR
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO Sport" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/fhd.png" group-title="FREE IIG SOURCE",RAMBO SERVER 01
 http://143.244.62.109:80/as1bh/index.m3u8
