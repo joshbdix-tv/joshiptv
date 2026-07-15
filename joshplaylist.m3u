@@ -11,7 +11,7 @@ http://live.joshbdixsports.shop/RAMBO_FOX_UHD_SF_2nd_ENGvsARG_PR0/index.m3u8
 http://live.joshbdixsports.shop/RAMBO_BDIX_FHD_SF_2nd_ENGvsARG_PRo/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",RAMBO FHD BACKUP
-http://stream.joshbdixsports.shop:1052/RAMBO_BBC_FHD_SF_1st_FRvsES_PRO/index.m3u8
+http://stream.joshbdixsports.shop:1052/RAMBO_JPLEX_FHD_SF_2nd_ENGvsARG_PR0/index.m3u8
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",RAMBO HD
 http://bdix.joshbdixsports.shop/RAMBO_LOCAL_HD_FDS/index.m3u8
