@@ -1,31 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="JOSH4K" tvg-name="RAMBO 4K UHD ENGLiSH" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",RAMBO NOW 4K UHD
-http://stream.joshbdixsports.shop:1052/RAMBO_NOW_UHD_3rdPlace_FRvsEN/index.m3u8
+#EXTINF:-1 tvg-id="JOSH4K" tvg-name="RAMBO 4K UHD ENGLiSH" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="WORLD CUP FiNAL 2026",RAMBO NOW 4K UHD
+http://stream.joshbdixsports.shop:1052/RAMBO_NOW_UHD_FINAL_ARGvsSPN/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSH4K" tvg-name="RAMBO 4K UHD FOX ONE" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="PAID WORLD CUP 2026",RAMBO FOX ONE 4K UHD
-http://live.joshbdixsports.shop/RAMBO_FOX_UHD_3rdPlace__ENGvsFra__Pro__sds/index.m3u8
+#EXTINF:-1 tvg-id="JOSH4K" tvg-name="RAMBO 4K UHD FOX ONE" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/4kuhd.png" group-title="WORLD CUP FiNAL 2026",RAMBO FOX ONE 4K UHD
+http://live.joshbdixsports.shop/RAMBO_FOX_UHD_FINAL__ARGvsSPN__PRO__kjfjddws/index.m3u8
 
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",RAMBO FOX ONE FHD
-http://live.joshbdixsports.shop/RAMBO_BDIX_FHD_3rdPlace__ENGvsFra__Pro__sds/index.m3u8
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD 60FPS" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="WORLD CUP FiNAL 2026",RAMBO FOX ONE FHD
+http://live.joshbdixsports.shop/RAMBO_BDIX_FHD_FINAL__ARGvsSPN__PRO__kjfjd/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",RAMBO TSN FHD
-http://stream.joshbdixsports.shop:1052/RAMBO_JPLEX_FHD_3rdPlace_FRvsEN/index.m3u8
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="WORLD CUP FiNAL 2026",RAMBO TSN FHD
+http://stream.joshbdixsports.shop:1052/RAMBO_BBC_FHD_FINAL_ARGvsSPN/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="PAID WORLD CUP 2026",RAMBO HD
-http://bdix.joshbdixsports.shop/RAMBO_LOCAL_HD_FDS/index.m3u8
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="WORLD CUP FiNAL 2026",RAMBO HD
+http://stream.joshbdixsports.shop:1052/RAMBO_JPLEX_FHD_FINAL_ARGvsSPN/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD 01" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE WORLD CUP 2026",RAMBO HD CHINA
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD 01" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="WORLD CUP FiNAL 2026",RAMBO HD CHINA
 http://bdix.joshbdixsports.shop/RAMBO_SOMOY-TV-FHD/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD 02" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE IIG SOURCE",RAMBO FHD
-http://live.joshbdixsports.shop/t.me/josharmy007__3rdPlace__ENGvsFra__Free__gswe/index.m3u8
+http://203.18.159.180/t.me/josharmy007__FINAL__ARGvsSPN__Free__hsts/index.m3u8
 
-#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE IIG SOURCE",RAMBO FOX ONE 4K UHD
-https://tinyurl.com/TG-josharmy007-FRvSPnsp4KHDR
+#EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO FHD BACKUP" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/fhd.png" group-title="FREE IIG SOURCE",J PLIX LOCAL
+http://103.115.158.38:8282/J-PLEX_LOCAL/tracks-a1/mono.m3u8?session=eb2e66781441e3802e7c6a97505eab5f94400548-4927e9e267f515e0f5cd437c-1784466390-1784455590
 
 #EXTINF:-1 tvg-id="JOSHFHD" tvg-name="RAMBO Sport" tvg-logo="https://raw.githubusercontent.com/joshbdix-tv/joshiptv/main/logo/fhd.png" group-title="FREE IIG SOURCE",RAMBO SERVER 01
 http://stream.joshbdixsports.shop:1052/RAMBO_BBC_UHD_3rdPlace_FRvsEN/index.m3u8
